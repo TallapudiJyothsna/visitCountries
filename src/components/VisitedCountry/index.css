@@ -1,0 +1,32 @@
+.flag-image-name-container {
+  flex-basis: 30%;
+  margin: 8px;
+  background-color: #94a3b820;
+}
+
+.flag-image {
+  width: 100%;
+}
+
+.country-name-remove-button-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 2px 12px;
+}
+
+.visited-country-name {
+  color: #ffffff;
+  font-family: Roboto;
+}
+
+.remove-button {
+  border: 1px solid #cbd5e1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: Roboto;
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+  outline: none;
+}
